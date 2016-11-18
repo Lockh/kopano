@@ -1,0 +1,11 @@
+dn: CN=Everyone,CN=Users,DC=dubarbu,DC=fr
+objectClass: top
+objectClass: kopanoAddresslist
+cn: Everyone
+name: Everyone
+objectCategory: CN=Kopano-Addresslist,CN=Schema,CN=Configuration,DC=dubarbu,DC=fr
+kopanoAccount: 1
+kopanoHidden: 0
+kopanoBase: CN=Users,CN=Users,DC=dubarbu,DC=fr
+kopanoFilter: (kopanoAccount=1)
+distinguishedName: CN=Everyone,CN=Users,DC=dubarbu,DC=fr
